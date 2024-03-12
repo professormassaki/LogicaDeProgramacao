@@ -2,7 +2,7 @@
 	
 # $\textcolor{darkblue}{Lógica \ de \ Programação}$
 ### Prof. Massaki de O. Igarashi (e-mail: massaki.igarashi@anchieta.br)
-![Acesse ambiente AVA clicando aqui](https://anchieta.instructure.com/login/canvas)
+
 </div>  
 
 <div align="justify">
