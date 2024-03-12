@@ -45,7 +45,7 @@ Assim,
 	
 ![LP01 - Introdução à Lógica de Programação – Parte 1](https://github.com/professormassaki/LogicaDeProgramacao/blob/main/LP01%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20%E2%80%93%20Parte%201.pdf)
 
-Dia 12/03/24:
+**Dia 12/03/24:**
 
 ![LP02 - Introdução à Lógica de Programação – Parte 2](https://github.com/professormassaki/LogicaDeProgramacao/blob/main/LP02%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20%E2%80%93%20Parte%202.1.pdf)
 
