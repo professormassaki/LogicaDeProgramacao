@@ -47,7 +47,8 @@ Assim,
 
 Dia 12/03/24:
 
-![LP02 - Introdução à Lógica de Programação – Parte 2 / Disponível em 11/mar/24]()
+![LP02 - Introdução à Lógica de Programação – Parte 2](https://github.com/professormassaki/LogicaDeProgramacao/blob/main/LP02%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20%E2%80%93%20Parte%202.1.pdf)
+![LP02 - DICAS para o desenvolvimento do trabalho em grupo.pd](https://github.com/professormassaki/LogicaDeProgramacao/blob/main/LP02%20-%20DICAS%20para%20o%20desenvolvimento%20do%20trabalho%20em%20grupo.pdf)
 
 </div>
 
