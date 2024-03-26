@@ -64,3 +64,10 @@ Assim,
 ![Em_Desenvolvimento](https://github.com/igarashimassaki/LinguagemPython/blob/main/desenvolvimento.jpg)
 
 </div>
+
+
+#DICA PARA GOOGLE FORMS:
+SUBSTITUIR
+viewformusp=pp_url&entry
+por
+formResponse?&submit=Submit?usp=pp_url&entry
